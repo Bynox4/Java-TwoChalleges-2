@@ -6,7 +6,7 @@ Podras seleccinar 2 monedas y ingreasar un valor, luego se llamara un API(freecu
 
 ![Alt text](image-1.png)
 
-(ya que hay diferentes divisas puede ser complicado buscar la correcta, por ello puedes ir escribiendola y se filtran las opciones)
+Ya que hay "bastantes" divisas puede ser complicado buscar la correcta, por ello puedes ir escribiendola y se filtran las opciones.
 
 ![Alt text](image-3.png)
 
