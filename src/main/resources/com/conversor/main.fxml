@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" maxWidth="1.7976931348623157E308" prefHeight="480.0" prefWidth="644.0" spacing="20.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="com.conversor.MainController">
+   <children>
+      <AnchorPane prefHeight="492.0" prefWidth="644.0">
+         <children>
+            <ImageView fitHeight="480.0" fitWidth="644.0" pickOnBounds="true">
+               <image>
+                  <Image url="@wallpaper.jpg" />
+               </image>
+            </ImageView>
+            <Label layoutX="242.0" layoutY="199.0" text="Selecione una opción" textFill="WHITE">
+               <font>
+                  <Font size="17.0" />
+               </font></Label>
+            <ChoiceBox fx:id="selecMain" layoutX="247.0" layoutY="240.0" prefWidth="150.0" AnchorPane.leftAnchor="247.0" AnchorPane.rightAnchor="247.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>
