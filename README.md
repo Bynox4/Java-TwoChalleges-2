@@ -6,7 +6,15 @@ Podras seleccinar 2 monedas y ingreasar un valor, luego se llamara un API(freecu
 
 ![Alt text](image-1.png)
 
+(ya que hay diferentes divisas puede ser complicado buscar la correcta, por ello puedes ir escribiendola y se filtran las opciones)
+
+![Alt text](image-3.png)
+
+![Alt text](image-4.png)
+
 # MENÚ TEMPERATURAS
 Podras seleccionar 2 temperaturas y ingresar un valor, luego se devolvera el valor convertido.
 
 ![Alt text](image-2.png)
+
+![Alt text](image-5.png)
